@@ -26,10 +26,10 @@ const cookiePopup = function () {
   cookieContainer.innerHTML = `
         <div class="cookie__icons">
           <svg class="cookie__icon cookie__icon--cross">
-            <use href="/SVG/cross.svg"></use>
+            <use href="SVG/cross.svg"></use>
           </svg>
           <svg class="cookie__icon cookie__icon--gear">
-            <use href="/SVG/cog.svg"></use>
+            <use href="SVG/cog.svg"></use>
           </svg>
         </div>
         <p class="cookie__text">
@@ -39,7 +39,7 @@ const cookiePopup = function () {
           <button class="cookie__button">I Accept</button>
           <button class="cookie__button cookie__button--trash">
             <svg class="cookie__icon cookie__icon--trash">
-              <use href="/SVG/trash.svg"></use>
+              <use href="SVG/trash.svg"></use>
             </svg>
           </button>
         </div>
