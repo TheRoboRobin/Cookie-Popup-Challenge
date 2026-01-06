@@ -90,3 +90,5 @@ But I want it to return if the cookie is present. And so really I wanted the ope
 ## What I learned
 
 Overall, I think it was really helpful to learn how cookies work and how we use them. Having worked with Wordpress a lot, having a plugin just do it was the norm. But I feel like I've got a better grasp of what we do and why.
+
+It was also good practice to build a function like this from the ground up.
